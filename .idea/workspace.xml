@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="554d9bad-6d43-4384-bd9e-8c30830631b5" name="Changes" comment="Upload hometask for lesson 2">
+      <change afterPath="$PROJECT_DIR$/Lesson_6/Hometask_6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/creditcard.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
